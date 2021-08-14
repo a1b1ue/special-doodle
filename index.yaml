@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  chart-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-08-14T13:10:48.4972424-05:00"
+    description: A Helm chart for Kubernetes
+    digest: f55d8fe420371b13f13e92db1b0132f047fdc9e54651f674a1164a4596a18b08
+    name: chart-test
+    type: application
+    urls:
+    - https://a1b1ue.github.io/special-doodle/chart-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-08-14T13:10:48.4962427-05:00"
