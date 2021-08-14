@@ -3,7 +3,17 @@ entries:
   helm-guestbook:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-08-14T16:29:30.897875-05:00"
+    created: "2021-08-14T17:53:39.93943-05:00"
+    description: A Helm chart for Kubernetes
+    digest: bee0c5f0996c36aaf745c740e0349922c5244f24576ce8282a8d3c93e79db893
+    name: helm-guestbook
+    type: application
+    urls:
+    - https://a1b1ue.github.io/special-doodle/helm-guestbook-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-08-14T17:53:39.93943-05:00"
     description: A Helm chart for Kubernetes
     digest: 7670f20b8a7ac71aaeacedeb3581e0db843ab5e2e2e9161a2a9a031cb84f342f
     name: helm-guestbook
@@ -14,7 +24,7 @@ entries:
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-08-14T16:29:30.8983985-05:00"
+    created: "2021-08-14T17:53:39.9404583-05:00"
     description: A Helm chart for Kubernetes
     digest: b9bb0adcd0b6510964d5f1f13e9a30313c1a19dd4e86d53f92ef3e894d70e23b
     name: mychart
@@ -22,4 +32,4 @@ entries:
     urls:
     - https://a1b1ue.github.io/special-doodle/mychart-0.1.0.tgz
     version: 0.1.0
-generated: "2021-08-14T16:29:30.8968827-05:00"
+generated: "2021-08-14T17:53:39.9374708-05:00"
